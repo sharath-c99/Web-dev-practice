@@ -1,0 +1,13 @@
+body
+{
+    background-color: white;
+}
+
+img{
+    background-color: red;
+}
+
+.bacon:hover
+{
+    background-color: teal;
+}
